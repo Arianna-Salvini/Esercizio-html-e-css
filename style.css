@@ -61,17 +61,17 @@ h2{
 
 .rectangle1{
     width: 300px;
-    background-color: orange;
+    background-color: #f5b453;
 }
 
 .rectangle2{
     width: 550px;
-    background-color: greenyellow;
+    background-color: #1ec31e;
 }
 
 .rectangle3{
     width: 100px;
-    background-color: red;
+    background-color: #be4141;
 }
 
 label{
